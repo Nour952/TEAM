@@ -1,0 +1,8 @@
+
+{
+  "name": "Mostaqbali - Your Intelligent Career Path",
+  "description": "An advanced AI-powered platform for students to discover their ideal academic paths using personality analysis, market trends, and smart comparison tools.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
